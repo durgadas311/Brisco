@@ -43,7 +43,7 @@ during production of the DVD "extras" (probably 2005).
 
 So, two theories came to mind: 1) This piece was created as part of the
 work on the DVD release, or 2) These grips pre-date the revolver and the revolver
-was cusomtimzed to fit the grips (usually it's the other way around).
+was customized to fit the grips (usually it's the other way around).
 In support of theory 2 is the fact that the backstrap looks different than
 the rest of the gun, and it's serial number is scratched-in instead of being stamped
 on like the other parts. So, I think there's still a chance that the grips
