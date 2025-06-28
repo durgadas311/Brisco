@@ -2,8 +2,8 @@
 
 3D Scans of replica (or original) grips from the TV show.
 
-Open a [issue](issues) to share progress or ask questions.
-Or contact me directly.
+Open a [issue](https://github.com/durgadas311/Brisco/issues)
+to share progress or ask questions. Or contact me directly.
 
 [A GRIPping story](TheStory.md)
 
