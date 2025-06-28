@@ -1,0 +1,19 @@
+## The Adventures of Brisco County Jr
+
+3D Scans of replica (or original) grips from the TV show.
+
+Open a [issue](issues) to share progress or ask questions.
+Or contact me directly.
+
+![scan left](pics/Screenshot6.png)
+![scan right](pics/Screenshot5.png)
+
+Grips found at estate sale:
+
+![left](pics/brisco-grips-left.jpg)
+![right](pics/brisco-grips-right.jpg)
+
+Shots from the TV show:
+
+![left side](pics/brisco-grips-ep01-3-c.png)
+![right side](pics/brisco-grips-ep04-2-c.png)
