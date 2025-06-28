@@ -5,7 +5,7 @@
 Open a [issue](issues) to share progress or ask questions.
 Or contact me directly.
 
-[Scan files and zip are [here](http://sebhc.durgadas.com/Brisco/Grips/3DScan/)
+Scan files and zip are [here](http://sebhc.durgadas.com/Brisco/Grips/3DScan/)
 
 ![scan left](pics/Screenshot6.png)
 ![scan right](pics/Screenshot5.png)
