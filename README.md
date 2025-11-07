@@ -14,15 +14,15 @@ to share progress or ask questions. Or contact me directly.
 
 Scan files and zip are [here](http://sebhc.durgadas.com/Brisco/Grips/3DScan/)
 
-![scan left](pics/Screenshot6.png)
-![scan right](pics/Screenshot5.png)
+![scan right](pics/blender-right.png)
+![scan left](pics/blender-left.png)
 
 Grips found at estate sale:
 
-![left](pics/brisco-grips-left.jpg)
-![right](pics/brisco-grips-right.jpg)
+![right](pics/brisco-grips-right-s.jpg)
+![left](pics/brisco-grips-left-s.jpg)
 
 Shots from the TV show:
 
-![left side](pics/brisco-grips-ep01-3-c.png)
 ![right side](pics/brisco-grips-ep04-2-c.png)
+![left side](pics/brisco-grips-ep01-3-c.png)
