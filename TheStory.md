@@ -1,7 +1,7 @@
 ## The Story Of The Grips
 
-While re-watching "The Advetures of Brisco County Jr" for the emteenth time,
-I though about trying to reproduce the famous Briso County peacemaker.
+While re-watching "The Adventures of Brisco County Jr" for the emteenth time,
+I though about trying to reproduce the famous Brisco County peacemaker.
 I ran across
 [this old post](https://www.therpf.com/forums/threads/brisco-county-jr-peacemaker.76110/)
 on Replica Props Forum (RPF) but could not access any attachments (probably due to the age).
@@ -33,7 +33,7 @@ The fact that they were not some molded plastic thing was even more
 compelling, and I sought more info on the peacemaker itself to try
 and determine the history.
 
-The peacemaker was made by USFA, a U.S firearms manufacturer in the 1990's
+The peacemaker was made by USFA, a U.S. firearms manufacturer in the 1990's
 and early 2000's that specialized in Colt-style "Single Action Army"
 revolvers (M1873, the "peacemaker"). To the best of my ability, I was able to narrow
 down this revolver to the late 1990's or early 2000's. Since the TV show was
@@ -48,11 +48,11 @@ In support of theory 2 is the fact that the backstrap looks different than
 the rest of the gun, and it's serial number is scratched-in instead of being stamped
 on like the other parts. So, I think there's still a chance that the grips
 could be from the time period of the TV show
-(and the revoler was custom-fit to them later).
+(and the revolver was custom-fit to them later).
 
 These grips were definitely not the actual ones seen on the TV show, as
 the show grips were of the "two piece" design, having the mounting screw in them.
-These grips are of the "one piece" design, where the two halfs are glued to 
+These grips are of the "one piece" design, where the two halves are glued to
 a spacer and are held in place by the backstrap. Still, the exact methods used
 to create TV/movie props is not known to me, but it seems possible that
 some "master" grips would have been created and then plastic replicas would be

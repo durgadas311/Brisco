@@ -3,6 +3,7 @@
 3D Scans of replica (or original) grips from the TV show.
 
     "Just an ordinary peacemaker with a pretty handle.
+    [...]
     That doesn't make it shoot any straighter."
 
     -- R. Lee Ermey as Brisco Country, Sr.
