@@ -13,7 +13,9 @@ to share progress or ask questions. Or contact me directly.
 
 [A GRIPping story](TheStory.md)
 
-Scan files and zip are [here](http://sebhc.durgadas.com/Brisco/Grips/3DScan/)
+Scan STL files are [here](scans/)
+
+Scan files are also [here](http://sebhc.durgadas.com/Brisco/Grips/3DScan/)
 
 ![scan right](pics/blender-right.png)
 ![scan left](pics/blender-left.png)
