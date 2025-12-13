@@ -1,14 +1,17 @@
 ## The Story Of The Grips
 
 While re-watching "The Adventures of Brisco County Jr" for the emteenth time,
-I though about trying to reproduce the famous Brisco County peacemaker.
-I ran across
+I wondered what the grips on his iconic peacemaker actually looked like.
+I also wondered if anyone had made reproductions of them.
+A search led me to
 [this old post](https://www.therpf.com/forums/threads/brisco-county-jr-peacemaker.76110/)
-on Replica Props Forum (RPF) but could not access any attachments (probably due to the age).
-So I loaded up my DVDs and started over, and created a
+on Replica Props Forum (RPF), but I could not access any attachments
+(probably due to the age).
+So I loaded up my DVDs for screenshots and started over, and created a
 [new thread](https://www.therpf.com/forums/threads/brisco-county-jr-peacemaker-grips.358560/).
 
-From framegrabs of the show, I was able to get a rough idea what the grips
+From framegrabs of the show, and the assertion that they depicted dragons,
+I was able to get a rough idea what the grips
 might have looked like and sketched this:
 
 ![sketch of grips](pics/brisco-grips-sketch-1.png)
@@ -16,7 +19,7 @@ might have looked like and sketched this:
 After hitting a wall on finding someone to try and carve
 a replica or create a computer model, I set this aside.
 
-Not much time later, I get a message from Joe in Florida saying he just
+Not much time later, I get a message from Joe C. in Florida saying he just
 purchased a peacemaker at an estate sale and was researching its
 history and ran across my RPF posts and noticed they were similar.
 Lo and behold, the grips on his peacemaker are nearly exactly what
@@ -47,29 +50,31 @@ was customized to fit the grips (usually it's the other way around).
 In support of theory 2 is the fact that the backstrap looks different than
 the rest of the gun, and it's serial number is scratched-in instead of being stamped
 on like the other parts. So, I think there's still a chance that the grips
-could be from the time period of the TV show
+were the masters for the TV show
 (and the revolver was custom-fit to them later).
+It's even possible that these grips predate the show, being found in some
+Warner Bros prop warehouse or even coming from outside the studio.
 
 These grips were definitely not the actual ones seen on the TV show, as
 the show grips were of the "two piece" design, having the mounting screw in them.
 These grips are of the "one piece" design, where the two halves are glued to
 a spacer and are held in place by the backstrap. Still, the exact methods used
 to create TV/movie props is not known to me, but it seems possible that
-some "master" grips would have been created and then plastic replicas would be
-crafted for use on the show - where things get broken or damaged, plus likely
+some "master" grips would have been found/created and then plastic replicas would be
+crafted for use on the show - where things get broken or damaged. Plus, likely
 multiple pistols were used for various situations
 (firing, non-firing, stunts, sinking to the bottom of the lake at Gravesend, ...).
 
 After many attempts to make silicone molds and resin castings of the grips,
 I reached the conclusion that my skills, and techniques, were not adequate
-to create quality replicas of these rather detailed carvings. In addition,
-peacemaker grips are rarely the exact same size/shape (they are close, but
-not exact enough that these grips fit the revolver I have). So, I needed
-a new plan on how to make copies.
+to create quality replicas of these rather detailed, high-relief, carvings.
+In addition, peacemaker grips are rarely the exact same size/shape
+(they are close, but not exact enough that these grips fit the revolver I have).
+So, I needed a new plan on how to make copies.
 
 I did find a company near by that can create 3D scans of objects. So I hand-carried
 these grips to them and had scans made. This seems to have worked great,
-however I did not have the machinery to use those scans to replicate them.
+however I did not have the machinery to use those scans and replicate them.
 I made a small investment in 3D printing equipment, and have had limited
 luck creating something (these printers require a lot of calibration,
 and I have not invested the time yet to get that right). I also am
